@@ -1,0 +1,59 @@
+{
+  "manifest_version": 2,
+  "name": "Ringside Royalty (Omarchy)",
+  "version": "3.1.1",
+  "description": "Ringside Royalty theme for Firefox, made to match the Omarchy theme of the same name.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "ringside-royalty-omarchy@gleasonmt"
+    }
+  },
+  "theme": {
+    "images": {
+      "theme_frame": "header-v3.1.svg"
+    },
+    "colors": {
+      "frame": "#240a35",
+      "frame_inactive": "#1a0727",
+      "tab_background_text": "#fbe9ff",
+      "tab_text": "#ffd23f",
+      "tab_selected": "rgba(255,210,63,0.16)",
+      "tab_line": "#ffd23f",
+      "tab_loading": "#ff2fa4",
+      "tab_background_separator": "rgba(255,47,164,0.35)",
+      "toolbar": "rgba(36,10,53,0.75)",
+      "toolbar_text": "#fbe9ff",
+      "toolbar_top_separator": "rgba(255,210,63,0.25)",
+      "toolbar_bottom_separator": "rgba(255,47,164,0.35)",
+      "toolbar_field": "#38124f",
+      "toolbar_field_text": "#fbe9ff",
+      "toolbar_field_border": "rgba(255,47,164,0.45)",
+      "toolbar_field_focus": "#1a0727",
+      "toolbar_field_text_focus": "#ffd23f",
+      "toolbar_field_border_focus": "#ffd23f",
+      "toolbar_field_highlight": "#ff2fa4",
+      "toolbar_field_highlight_text": "#1a0727",
+      "button_background_hover": "rgba(255,47,164,0.35)",
+      "button_background_active": "rgba(255,210,63,0.45)",
+      "icons": "#e8c56a",
+      "icons_attention": "#3ee8ff",
+      "popup": "#240a35",
+      "popup_text": "#fbe9ff",
+      "popup_border": "#ff2fa4",
+      "popup_highlight": "#ff2fa4",
+      "popup_highlight_text": "#1a0727",
+      "sidebar": "#1a0727",
+      "sidebar_text": "#fbe9ff",
+      "sidebar_border": "#ff2fa4",
+      "sidebar_highlight": "#ff2fa4",
+      "sidebar_highlight_text": "#1a0727",
+      "ntp_background": "#240a35",
+      "ntp_text": "#fbe9ff",
+      "ntp_card_background": "#38124f"
+    },
+    "properties": {
+      "color_scheme": "dark",
+      "content_color_scheme": "dark"
+    }
+  }
+}
